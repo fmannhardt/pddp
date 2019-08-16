@@ -7,11 +7,15 @@ This project contains two components:
 
 # Paper 
 
-The implemented technique is described in the following paper:
+The implemented technique is described in our paper:
 
-> Mannhardt, F., Koschmider, A., Baracaldo, N. et al. Bus Inf Syst Eng (2019). https://doi.org/10.1007/s12599-019-00613-3
+> Mannhardt, F., Koschmider, A., Baracaldo, N. et al. Privacy-Preserving Process Mining - Differential Privacy for Event Logs. Bus Inf Syst Eng (2019). https://doi.org/10.1007/s12599-019-00613-3
 
-Please cite it when refering to this software in your work.
+An open online version can be accessed here:
+
+https://rdcu.be/bOXut 
+
+Please use the citation above when refering to this software in your work.
 
 # ELPaaS
 
