@@ -1,19 +1,19 @@
 Process Discovery with Differential Privacy (PDDP) 
 =========================================================
-This project contains
+This project contains two components:
   
-  PDDP: The PDDP server component.
-  PINQ:	Privacy Integrated Queries library.
-
-This software makes used of PINQ as release by Microsoft Research.
+* PDDP: A C# REST server component providing differential privacy guarantees for two common queries on (XES)[http://www.xes-standard.org/openxes/start] event logs. 
+* PINQ:	Privacy Integrated Queries library as released by (Microsoft Research)[https://www.microsoft.com/en-us/research/project/privacy-integrated-queries-pinq/]. 
 
 # Paper 
 
-The techniques implemented are described in the paper:
+The implemented technique is described in the following paper:
 
-> Felix Mannhardt, Agnes Koschmider, Nathalie Baracaldo, Matthias Weidlich, Judith Michael (To Appear). Privacy-Preserving Process Mining: Differential Privacy for Event Logs. Business & Information Systems Engineering (2019) - Accepted
+> Mannhardt, F., Koschmider, A., Baracaldo, N. et al. Bus Inf Syst Eng (2019). https://doi.org/10.1007/s12599-019-00613-3
+
+Please cite it when refering to this software in your work.
 
 # ELPaaS
 
-The implementation is also available through ELPaaS:
+You can also use the PDDP implementation through ELPaaS:
 https://github.com/samadeusfp/ELPaaS
